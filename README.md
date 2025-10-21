@@ -2,7 +2,8 @@
 
 <h1 align="left"> Download UniV</h1>
 
-[![Video Thumbnail](./assets/UniV-bilibili.png)](https://www.bilibili.com/video/BV1SMhPzpEo2/?vd_source=d3914df06c5b07c8b14988e73b055956)
+![image-20250730152824047](./assets/bubble_all.pdf)
+
 
 <h1 align="center"> Click the image to the visualization of UniV</h1>
 
