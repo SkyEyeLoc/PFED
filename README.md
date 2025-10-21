@@ -1,9 +1,12 @@
-# [Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement] 🚀
+# [Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement]🌍🚁 
 
 
 This is the official PyTorch implementation for our paper **"Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement"**.
 
-In this project, we tackle the problem of [Problem You Solved, e.g., temporal variance in cross-view geo-localization]. We propose a novel architecture named `[Your_Method_Name]`, which achieves... [Main advantage of your method]... 🧠.
+In this project, We propose **Precision-Focused Efficient Design (PFED)**🧠, a resource-efficient framework combining hierarchical knowledge transfer and multi-view representation refinement.
+1.  **During training:** A **Hierarchical Distillation paradigm (HD-CVGL)**, coupled with **Uncertainty-Aware Prediction Alignment (UAPA)**, distills essential information and mitigates data imbalance without incurring additional inference overhead.
+2.  **During inference:** An efficient **Multi-view Refinement Module (MRM)** leverages mutual information to filter redundant samples and effectively utilize multi-view data.🚀
+
 
 ---
 
