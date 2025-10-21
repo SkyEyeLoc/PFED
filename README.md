@@ -1,29 +1,23 @@
-# [Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement]🌍🚁 
+# 🌍 [Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement]  
 
 
 This is the official PyTorch implementation for our paper **"Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement"**.
 
-In this project, We propose **Precision-Focused Efficient Design (PFED)**🧠, a resource-efficient framework combining hierarchical knowledge transfer and multi-view representation refinement.
-1.  **During training:** A **Hierarchical Distillation paradigm (HD-CVGL)**, coupled with **Uncertainty-Aware Prediction Alignment (UAPA)**, distills essential information and mitigates data imbalance without incurring additional inference overhead.
-2.  **During inference:** An efficient **Multi-view Refinement Module (MRM)** leverages mutual information to filter redundant samples and effectively utilize multi-view data.🚀
-
+In this project, We propose **Precision-Focused Efficient Design (PFED)**, a resource-efficient framework combining hierarchical knowledge transfer and multi-view representation refinement. 🚁
 
 ---
 
-## 🌟 Highlights
-
-* **[Highlight 1]**: e.g., Propose a new XX loss function, boosting accuracy by XX%.
-* **[Highlight 2]**: e.g., Clean, reproducible, and easily extensible code.
-* **[Highlight 3]**: e.g., Release a new large-scale dataset `[Dataset_Name]` for XX task.
+## 🌟 Efficiency analysis
+<img src="assets/bubble_all.png" width="60%" height="60%" align="center" >
 
 ---
 
 ## 🏛️ Core Architecture
 
-The overall architecture of our model `[Your_Method_Name]` is illustrated below:
+The overall architecture of our model `PFED` is illustrated below:
 
-![Model Architecture](assets/architecture.png)
-*Figure 1: An overview of [Your_Method_Name].*
+<img src="assets/frame_work1.png" width="80%" height="80%" align="center" >
+
 
 ---
 
