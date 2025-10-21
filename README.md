@@ -2,7 +2,7 @@
 
 <h1 align="left"> Download UniV</h1>
 
-![image-20250730152824047](./assets/bubble_all.pdf)
+![image-20250730152824047](./assets/bubble_all.png)
 
 
 <h1 align="center"> Click the image to the visualization of UniV</h1>
