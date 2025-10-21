@@ -16,7 +16,7 @@ In this project, We propose **Precision-Focused Efficient Design (PFED)**, a res
 
 The overall architecture of our model `PFED` is illustrated below:
 
-<img src="assets/frame_work1.png" width="80%" height="80%" align="center" >
+<img src="assets/frame_work.png" width="80%" height="80%" align="center" >
 
 
 ---
@@ -79,7 +79,7 @@ More detailed file structure:
 
 ## ⚖️ Training & Evaluation
 
-### Training
+#### Training
 
 
 
