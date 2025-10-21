@@ -1,3 +1,69 @@
+# [Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement] 🚀
+
+
+This is the official PyTorch implementation for our paper **"Cross-View UAV Geo-Localization with Precision-Focused Efficient Design: A Hierarchical Distillation Approach with Multi-view Refinement"**.
+
+In this project, we tackle the problem of [Problem You Solved, e.g., temporal variance in cross-view geo-localization]. We propose a novel architecture named `[Your_Method_Name]`, which achieves... [Main advantage of your method]... 🧠.
+
+---
+
+## 🌟 Highlights
+
+* **[Highlight 1]**: e.g., Propose a new XX loss function, boosting accuracy by XX%.
+* **[Highlight 2]**: e.g., Clean, reproducible, and easily extensible code.
+* **[Highlight 3]**: e.g., Release a new large-scale dataset `[Dataset_Name]` for XX task.
+
+---
+
+## 🏛️ Core Architecture
+
+The overall architecture of our model `[Your_Method_Name]` is illustrated below:
+
+![Model Architecture](assets/architecture.png)
+*Figure 1: An overview of [Your_Method_Name].*
+
+---
+
+## ⚙️ Installation
+
+We recommend using `conda` or `venvv` to create a virtual environment.
+
+1.  **Clone this repository:**
+    ```bash
+    git clone
+````ps://github.com/](https://github.com/)[Your_Username]/[Your_Repo_Name].git
+    cd [Your_Repo_Name]
+    ```
+
+2.  **Create environment and install dependencies:**
+```````bash
+    # (Optional) Using Conda
+    conda create -n [your_env_name] python=3.9
+````conda activate [your_env_name]
+    
+    # Install dependencies
+    pip install -r requirements.txt
+    ```
+
+3.
+````repare datasets:**
+    Please download the dataset from [Link to dataset] and unzip it into the `./data` directory.
+
+---
+
+## 🚀 How
+````se
+
+We provide complete scripts for training and evaluation.
+
+### 1. Training
+```bash
+# Train your model
+python train.py --config configs/
+````nfig.yaml --data_path ./data/
+
+
+
 <h1 align="center"> UniV-Baseline </h1>
 
 <h1 align="left"> Download UniV</h1>
