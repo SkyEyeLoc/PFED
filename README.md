@@ -14,7 +14,7 @@ In this project, We propose **Precision-Focused Efficient Design (PFED)**, a res
 Furthermore, PFED runs at `251.5 FPS` on the `AGX Orin` edge device, demonstrating its practical viability for `real-time` UAV applications.
 
 <div align=center>
-<img src="assets/bubble_all.png" width="60%" height="60%" >
+<img src="assets/bubble_all.png" width="70%" height="70%" >
 </div>
 
 
