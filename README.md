@@ -8,16 +8,20 @@ In this project, We propose **Precision-Focused Efficient Design (PFED)**, a res
 ---
 
 ## 🌟 Efficiency analysis
-<img src="assets/bubble_all.png" width="60%" height="60%" align="center" >
+
+PFED achieves state-of-the-art performance in both accuracy and efficiency, reaching 97.15% Recall@1 on University-1652 while being over 5x more efficient in FLOPs and 3x faster than previous top methods. Furthermore, PFED runs at 251.5 FPS on the AGX Orin edge device, demonstrating its practical viability for real-time UAV applications.
+<div align=center>
+<img src="assets/bubble_all.png" width="60%" height="60%" >
+<div align=left>
 
 ---
 
 ## 🏛️ Core Architecture
 
 The overall architecture of our model `PFED` is illustrated below:
-
+<div align=center>
 <img src="assets/frame_work.png" width="80%" height="80%" align="center" >
-
+<div align=left>
 
 ---
 
@@ -120,15 +124,23 @@ We thank the anonymous reviewers for their insightful feedback.
 ## 📄 Citation
 
 The following paper uses and reports the result of the baseline model. You may cite it in your paper.
-```bibtex
-@article{ju2024video2bev,
-  title={Video2bev: Transforming drone videos to bevs for video-based geo-localization},
-  author={Ju, Hao and Huang, Shaofei and Liu, Si and Zheng, Zhedong},
-  journal={arXiv preprint arXiv:2411.13610},
-  year={2024}
-}
-```
-Others:
+
+[//]: # (```bibtex)
+
+[//]: # (@article{ju2024video2bev,)
+
+[//]: # (  title={Video2bev: Transforming drone videos to bevs for video-based geo-localization},)
+
+[//]: # (  author={Ju, Hao and Huang, Shaofei and Liu, Si and Zheng, Zhedong},)
+
+[//]: # (  journal={arXiv preprint arXiv:2411.13610},)
+
+[//]: # (  year={2024})
+
+[//]: # (})
+
+[//]: # (```)
+[//]: # (Others:)
 
 ```bibtex
 @article{zheng2020university,
