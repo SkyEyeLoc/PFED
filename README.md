@@ -13,9 +13,8 @@ In this project, We propose **Precision-Focused Efficient Design (PFED)**, a res
 
 Furthermore, PFED runs at `251.5 FPS` on the `AGX Orin` edge device, demonstrating its practical viability for `real-time` UAV applications.
 
-<div align=center>
-<img src="assets/bubble_all.png" width="70%" height="70%" >
-</div>
+
+<img src="assets/bubble_all.png" width="60%" height="60%" >
 
 The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
 
@@ -26,10 +25,10 @@ The current version of the repository can cover the experiments reported in the 
 
 The overall architecture of our model `PFED` is illustrated below:
 
-<div align=center>
+
 <img src="assets/frame_work.png" width="90%" height="90%" align="center" >
-</div>
-<div align=left> </div>
+
+
 
 ---
 
@@ -159,24 +158,8 @@ We thank the anonymous reviewers for their insightful feedback.
 
 ## 📄 Citation
 
-The following paper uses and reports the result of the baseline model. You may cite it in your paper.
+If you find this code useful for your research, please cite the following papers.
 
-[//]: # (```bibtex)
-
-[//]: # (@article{ju2024video2bev,)
-
-[//]: # (  title={Video2bev: Transforming drone videos to bevs for video-based geo-localization},)
-
-[//]: # (  author={Ju, Hao and Huang, Shaofei and Liu, Si and Zheng, Zhedong},)
-
-[//]: # (  journal={arXiv preprint arXiv:2411.13610},)
-
-[//]: # (  year={2024})
-
-[//]: # (})
-
-[//]: # (```)
-[//]: # (Others:)
 
 ```bibtex
 @article{zheng2020university,
