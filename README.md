@@ -17,6 +17,8 @@ Furthermore, PFED runs at `251.5 FPS` on the `AGX Orin` edge device, demonstrati
 <img src="assets/bubble_all.png" width="70%" height="70%" >
 </div>
 
+The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
+
 
 ---
 
@@ -25,7 +27,7 @@ Furthermore, PFED runs at `251.5 FPS` on the `AGX Orin` edge device, demonstrati
 The overall architecture of our model `PFED` is illustrated below:
 
 <div align=center>
-<img src="assets/frame_work.png" width="80%" height="80%" align="center" >
+<img src="assets/frame_work.png" width="90%" height="90%" align="center" >
 </div>
 <div align=left> </div>
 
@@ -83,7 +85,35 @@ We provide complete scripts for training and evaluation.
 
 More detailed file structure:
 
-
+### University-1652 Dataset Directory Structure
+```
+├── University-1652/
+│   ├── train/
+│       ├── drone/                   /* drone-view training images 
+│           ├── 0001
+|           ├── 0002
+|           ...
+│       ├── satellite/               /* satellite-view training images       
+│   ├── test/
+│       ├── query_drone/  
+│       ├── gallery_drone/  
+│       ├── query_satellite/  
+│       ├── gallery_satellite/ 
+```
+### SUES-200 Dataset Directory Structure
+```
+├─ SUES-200
+  ├── Training
+    ├── 150/
+    ├── 200/
+    ├── 250/
+    └── 300/
+  ├── Testing
+    ├── 150/
+    ├── 200/ 
+    ├── 250/	
+    └── 300/
+```
 
 
 
@@ -121,7 +151,7 @@ PS:
 
 ## 🙏 Acknowledgements
 Our implementation references the following excellent open-source projects: 
-[University1652](https://github.com/layumi/University1652-Baseline), [Sample4Geo](https://github.com/Skyy93/Sample4Geo).
+[University1652](https://github.com/layumi/University1652-Baseline), [Sample4Geo](https://github.com/Skyy93/Sample4Geo), [MEAN](https://github.com/ISChenawei/MEAN/tree/main).
 We thank the anonymous reviewers for their insightful feedback.
 
 
