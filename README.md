@@ -16,8 +16,7 @@ Furthermore, PFED runs at `251.5 FPS` on the `AGX Orin` edge device, demonstrati
 
 <img src="assets/bubble_all.png" width="60%" height="60%" >
 
-The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
-
+We will update this repository for better clarity ASAP, current version is for quick research for researchers interested in the cross-view geo-localization task.
 
 ---
 
