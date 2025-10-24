@@ -136,14 +136,14 @@ More detailed file structure:
 
 ## 🤗 Weights
 
-[Download link](https://pan.baidu.com/s/1ZjssipR0RGfoPaETo4QhsQ?pwd=ahi4)
+[Download link]()
 
 
 Choose the weight and **unzip** it. Then put it in the root path in the working directory for your repo.
 
 PS: 
 
-- `model_2024-11-02-03-05-31` is the weight for 30-degree UniV (2fps) and `model_2024-10-05-02_49_11` is the weight for 45-degree UniV (2fps)
+- `model_2024-11-02-03-05-31` is the weight and `model_2024-10-05-02_49_11` is the weight
   - The evaluation number should be the same as our paper
 - By tuning hyper-parameter, we can get a better result.
 
