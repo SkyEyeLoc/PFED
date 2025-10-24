@@ -20,12 +20,12 @@ We will update this repository for better clarity ASAP, current version is for q
 
 ---
 
-## 🏛️ Core Architecture
+## 🏛️ Core Architecture 
 
 The overall architecture of our model `PFED` is illustrated below:
 
 
-<img src="assets/frame_work.png" width="90%" height="90%" align="center" >
+<img src="assets/frame_work.png" width="90%" height="90%">
 
 
 
@@ -59,8 +59,19 @@ We recommend using `conda` to create a virtual environment.
 
 ## 🚀 Quick Test
 
+We provide the following `.mat` file for quick evaluation of the model's performance.
+[Download link](https://drive.google.com/drive/folders/1mmIp8HotaW0hBTC3zTxYKm1o_1ET8Ity?usp=drive_link)
 
-We provide complete scripts for training and evaluation.
+You can use `Tools/evaluate_norm.py` to evaluate the performance.
+**Please note to replace with your own files path.**
+```bash
+python evaluate_norm.py
+```
+    
+
+    
+
+
 
 ### 1. Training
 
@@ -68,7 +79,7 @@ We provide complete scripts for training and evaluation.
 ## 📜 TODOs
 
 - [x] ~~Release the `requirements.txt`~~
-- [x] Release the weight of the second stage
+- [x] ~~Release the `mat file` of the second stage~~
 - [x] Release the ***evaluation*** code for the second stage
 - [x] Release the **training** code for the second stage
 - [x] Release the weight of the first stage
